@@ -1,0 +1,25 @@
+printAll
+readInventory
+printAll
+removeBook 123
+removeBook 765
+removeBook 456
+removeBook 345
+removeBook 890
+removeBook 567
+addBook FirstBookInInventory 5 6 59.99 25
+addBook MiddleBookInInventory 3000 613 55.55 2
+addBook LastBookInInventory 10000 316 25.99 1
+printAll
+searchByStockNumber 5
+searchByStockNumber 10000
+searchByStockNumber 3
+searchByClassification 613
+searchByClassification 3253
+searchByCost 15 45
+searchByCost 0 5
+getNumberInStock 5
+getNumberInStock 25
+printAll
+Error
+Quit

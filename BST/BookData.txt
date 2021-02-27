@@ -1,0 +1,67 @@
+# Any line beginning with a pound sign can be ignored as a comment line
+# First non-comment line will give the number of books in the file
+# Remaining lines will give the stock number, Title, classification 
+# and cost. Each on a separate line.
+# And, yes I know the book names aren't very creative.  But, we all
+# have our off days.
+10
+567
+More Fun With C++
+613
+32.55
+25
+
+678
+Having Fun With C
+316
+43.55
+20
+
+890
+Oh Say Can You C
+613
+54.55
+45
+
+345
+Geeks Guide to C
+613
+65.55
+23
+
+234
+C  Spot  Program
+316
+32.75
+18
+
+123
+C++ Code Secrets
+613
+43.75
+19
+
+456
+When You C Me Coming
+613
+54.75
+24
+
+765
+The C++ Programming Language
+316
+65.75
+36
+
+876
+C++ for Dummies
+316
+33.25
+37
+
+987
+C++ for Geniuses
+613
+44.25
+29
+
